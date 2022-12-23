@@ -18109,7 +18109,7 @@ a4L:function a4L(a){this.a=a},
 Tq(){var s=0,r=A.af(t.gz),q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1
 var $async$Tq=A.ag(function(b2,b3){if(b2===1)return A.ac(b3,r)
 while(true)switch(s){case 0:s=3
-return A.ab($.Pe().a3L("data/events.txt"),$async$Tq)
+return A.ab($.Pe().a3L("assets/data/events.txt"),$async$Tq)
 case 3:a7=b3
 a8=A.a([],t.GF)
 a9=t.CE
