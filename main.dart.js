@@ -18345,11 +18345,11 @@ a5I:function a5I(a){this.a=a},
 a5H:function a5H(a){this.a=a},
 U7(){var s=0,r=A.ac(t.gz),q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3
 var $async$U7=A.ad(function(b4,b5){if(b4===1)return A.a9(b5,r)
-while(true)switch(s){case 0:b3=A.nE("https://scpkosb.wikidot.com/draft:vocadomato-25-f5db",0,null)
+while(true)switch(s){case 0:b3=A.nE("http://scpkosb.wikidot.com/draft:vocadomato-25-f5db",0,null)
 A.kg("wow")
 p=t.N
 s=3
-return A.a6(A.avN(b3,A.O(["Access-Control-Allow-Origin","https://scpkosb.wikidot"],p,p)),$async$U7)
+return A.a6(A.avN(b3,A.O(["Access-Control-Allow-Origin","*"],p,p)),$async$U7)
 case 3:o=b5
 A.kg("good")
 if(o.b===200){n=A.avy(J.bb(A.atC(o.e).c.a,"charset")).cX(0,o.w)
