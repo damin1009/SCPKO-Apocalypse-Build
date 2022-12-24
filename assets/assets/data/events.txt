@@ -2,22 +2,22 @@
 <div class="event-container">
 <div class="title-container"><span class="color" style="background-color: #0060DF;">#0060DF</span> <span class="title">SCP-1000-KO 경연</span> <span class="is-official">공식</span></div>
 <p><span class="description">한국어 위키 10년의 성장을 상징할 영광의 자리, SCP-1000-KO가 여러분을 기다리고 있습니다.</span></p>
-<p><strong>전체 기간:</strong> <span class="range">22.11.10~22.12.31.12:00</span></p>
-<p><strong>투고 종료 및 평가 시작:</strong> <span class="vote">22.12.11</span></p>
+<p><strong>투고 기간:</strong> <span class="range">22.11.10~22.12.10</span></p>
+<p><strong>평가 기간:</strong> <span class="vote">22.12.11~22.12.31.12:00</span></p>
 <p><strong>링크:</strong> <span class="url"><a href="http://scpko.wikidot.com/scp1000kocontesthub">http://scpko.wikidot.com/scp1000kocontesthub</a></span></p>
 </div>
 <div class="event-container">
 <div class="title-container"><span class="color" style="background-color: #382C72;">#382C72</span> <span class="title">삼천리 해서 경연</span> <span class="is-official">공식</span></div>
 <p><span class="description">휴전선 너머에도 펼쳐진 땅이 있고, 그곳에서 펼쳐지는 삶이 있습니다.</span></p>
-<p><strong>전체 기간:</strong> <span class="range">23.01.15~23.02.28</span></p>
-<p><strong>투고 종료 및 평가 시작:</strong> <span class="vote">23.02.16</span></p>
+<p><strong>투고 기간:</strong> <span class="range">23.01.15~23.02.15</span></p>
+<p><strong>평가 기간:</strong> <span class="vote">23.02.16~23.02.28</span></p>
 <p><strong>링크:</strong> <span class="url"><a href="http://scpko.wikidot.com/samcheonri-contest-haeseo">http://scpko.wikidot.com/samcheonri-contest-haeseo</a></span></p>
 </div>
 <div class="event-container">
 <div class="title-container"><span class="color" style="background-color: #FF9A1E;">#FF9A1E</span> <span class="title">제1회 롬롬표 개구라 경연</span> <span class="is-official">공식</span></div>
 <p><span class="description">우리 모두의 기념일인 만우절이 저희 SCP 재단 한국어 위키에도 다가오고 있습니다. 만우절 기념, 가짜 허브 만들기!</span></p>
-<p><strong>전체 기간:</strong> <span class="range">23.02.15~23.03.31</span></p>
-<p><strong>투고 종료 및 평가 시작:</strong> <span class="vote">23.03.16</span></p>
+<p><strong>투고 기간:</strong> <span class="range">23.02.15~23.03.15</span></p>
+<p><strong>평가 기간:</strong> <span class="vote">23.03.16~23.03.31</span></p>
 <p><strong>링크:</strong> <span class="url"><a href="http://scpko.wikidot.com/bullsht-contest-hub-2023">http://scpko.wikidot.com/bullsht-contest-hub-2023</a></span></p>
 </div>
 </div>
