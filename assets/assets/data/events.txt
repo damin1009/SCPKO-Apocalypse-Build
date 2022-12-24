@@ -1,10 +1,29 @@
 <div class="event-containers">
 <div class="event-container">
-<p><span class="start">2022-12-10</span><br>
-<span class="end">2022-12-31</span></p>
-<p><span class="name">1000KO 경연 [평가기간]</span></p>
-<p><span class="description">드디어 시작된 한위키 1000KO 경연! 평가 기간입니다.</span></p>
+<p><span class="range">22.11.10~22.12.31.12:00</span></p>
+<p><span class="vote">22.12.11</span></p>
+<p><span class="title">SCP-1000-KO 경연</span></p>
+<p><span class="description">한국어 위키 10년의 성장을 상징할 영광의 자리, SCP-1000-KO를 여러분의 손으로 선정해주세요.</span></p>
 <div class="url"><a href="http://scpko.wikidot.com/scp1000kocontesthub">http://scpko.wikidot.com/scp1000kocontesthub</a></div>
-<p><span class="color">#FFFF0000</span></p>
+<p><span class="is-official">_</span></p>
+<p><span class="color">#0060DF</span></p>
+</div>
+<div class="event-container">
+<p><span class="range">23.01.15~23.02.28</span></p>
+<p><span class="vote">23.02.16</span></p>
+<p><span class="title">삼천리 해서 경연</span></p>
+<p><span class="description">휴전선 너머에도 펼쳐진 땅이 있고, 그곳에서 펼쳐지는 삶이 있습니다.</span></p>
+<div class="url"><a href="http://scpko.wikidot.com/samcheonri-contest-haeseo">http://scpko.wikidot.com/samcheonri-contest-haeseo</a></div>
+<p><span class="is-official">_</span></p>
+<p><span class="color">#382C72</span></p>
+</div>
+<div class="event-container">
+<p><span class="range">23.02.15~23.03.31</span></p>
+<p><span class="vote">23.03.16</span></p>
+<p><span class="title">제1회 롬롬표 개구라 경연</span></p>
+<p><span class="description">만우절 기념, 가짜 허브 만들기!</span></p>
+<div class="url"><a href="http://scpko.wikidot.com/bullsht-contest-hub-2023">http://scpko.wikidot.com/bullsht-contest-hub-2023</a></div>
+<p><span class="is-official">_</span></p>
+<p><span class="color">#FF9A1E</span></p>
 </div>
 </div>
